@@ -1,0 +1,30 @@
+a:link{
+    border: 2px double;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    
+}
+a:hover{
+    background-color: rgb(243, 132, 132);
+    color: red;
+}
+
+body{
+    background-color: rgb(233, 111, 111);
+}
+
+.dos{
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+p{
+    text-align: center;
+}
